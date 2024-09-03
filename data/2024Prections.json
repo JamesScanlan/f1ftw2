@@ -1,0 +1,354 @@
+{
+ "Grands_Prix": [
+  {
+   "Year": 2024,
+   "Races": [
+    {
+     "Grand_Prix": "Bahrain",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Lewis Hamilton",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "RB"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Charles Leclerc",
+       "Race": "George Russell",
+       "Progression": "McLaren"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Max Verstappen",
+       "Race": "Lando Norris",
+       "Progression": "Sauber"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Saudi Arabia",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "George Russell",
+       "Race": "Oscar Piastri",
+       "Progression": "Sauber"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Lando Norris",
+       "Race": "Charles Leclerc",
+       "Progression": "Aston Martin"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Lewis Hamilton",
+       "Progression": "Haas F1"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Australia",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Lewis Hamilton",
+       "Progression": "RB"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Lando Norris",
+       "Race": "George Russell",
+       "Progression": "Williams"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Haas F1"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Japan",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Charles Leclerc",
+       "Progression": "Haas F1"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Sergio Perez",
+       "Progression": "Sauber"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "Lewis Hamilton",
+       "Progression": "Williams"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "China",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Mercedes"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Charles Leclerc",
+       "Progression": "Haas F1"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Lance Stroll",
+       "Race": "Zhou Guanyu",
+       "Progression": "Williams"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Miami",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "RB"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Nico Hulkenberg",
+       "Progression": "Mercedes"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Lance Stroll",
+       "Race": "Yuki Tsunoda",
+       "Progression": "Williams"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Italy#1",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Charles Leclerc",
+       "Race": "Lewis Hamilton",
+       "Progression": "Aston Martin"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Haas F1"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "George Russell",
+       "Progression": "Williams"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Monaco",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "George Russell",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "RB"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Lewis Hamilton",
+       "Progression": "Ferrari"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Fernando Alonso",
+       "Race": "Yuki Tsunoda",
+       "Progression": "Sauber"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Canada",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "George Russell",
+       "Race": "Sergio Perez",
+       "Progression": "Williams"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Aston Martin"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Fernando Alonso",
+       "Progression": "Sauber"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Spain",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Lewis Hamilton",
+       "Race": "Fernando Alonso",
+       "Progression": "Haas F1"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "Charles Leclerc",
+       "Progression": "Aston Martin"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "George Russell",
+       "Race": "Pierre Gasly",
+       "Progression": "Sauber"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Austria",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Fernando Alonso",
+       "Race": "George Russell",
+       "Progression": "McLaren"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Daniel Ricciardo",
+       "Progression": "Alpine"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "Esteban Ocon",
+       "Progression": "Red Bull"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "British",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Yuki Tsunoda",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Haas F1"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Pierre Gasly",
+       "Race": "Oscar Piastri",
+       "Progression": "Sauber"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Lewis Hamilton",
+       "Race": "Lance Stroll",
+       "Progression": "Williams"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Hungary",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Carlos Sainz Jnr",
+       "Race": "George Russell",
+       "Progression": "RB"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Oscar Piastri",
+       "Race": "Lewis Hamilton",
+       "Progression": "Aston Martin"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Sergio Perez",
+       "Race": "Alexander Albon",
+       "Progression": "Sauber"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Belgium",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Carlos Sainz Jnr",
+       "Race": "Lando Norris",
+       "Progression": "Mercedes"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "George Russell",
+       "Race": "Lewis Hamilton",
+       "Progression": "Red Bull"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Lance Stroll",
+       "Race": "Esteban Ocon",
+       "Progression": "Haas F1"
+      }
+     ]
+    },
+    {
+     "Grand_Prix": "Netherlands",
+     "Predictions": [
+      {
+       "Predictor": "Andrew Chadwick",
+       "Qualifying": "Lewis Hamilton",
+       "Race": "Carlos Sainz Jnr",
+       "Progression": "Williams"
+      },
+      {
+       "Predictor": "James Scanlan",
+       "Qualifying": "Charles Leclerc",
+       "Race": "Max Verstappen",
+       "Progression": "Mercedes"
+      },
+      {
+       "Predictor": "Matt Potter",
+       "Qualifying": "Alexander Albon",
+       "Race": "George Russell",
+       "Progression": "Alpine"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
